@@ -1,15 +1,11 @@
+//task 1
+
 console.log("Hello, World!");
 console.log("Witaj, świecie!");
 console.log("Hej, världen!");
 
+//task 2
 console.log("I'm awesome");
-
-// let food = ["pizza", "hamburger", "pommes"];
-// for (let i = food.length -1; i >=0; i--) {
-//     console.log("food-item:", food[i]);
-    
-// }
-
 
 //task 3
 
